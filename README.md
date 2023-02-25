@@ -1,2 +1,2 @@
-# minproject-signup-page-
+# miniproject-signup-page-
 Mini Project
